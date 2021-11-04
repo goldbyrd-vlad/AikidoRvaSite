@@ -10,17 +10,7 @@ echo $test;
     <div class="row justify-content-center g-0 mt-1">
         <div class="col-12 col-lg-12 text-center">
             <div class="logo p-4" uk-height-viewport="offset-top: true">
-            <div class="display-1 mt-5" uk-parallax="y: -300;">
-                <span ><b style="font-size: 2em;">Johnson's Bonding</b></span>
-            </div>
-                <b>Putting your feet back on the street!</b>
-                <br>
-
-                <b> 合道<span>気</span><span></span></b>
-                <br>
-                <b><span>/</span>7</b>
-                <br>
-            
+                <b> 合道<span>気</span><span></span></b>            
             </div>
            
         </div>
