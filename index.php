@@ -16,9 +16,9 @@ echo $test;
                 <b>Putting your feet back on the street!</b>
                 <br>
 
-                <b>(804)<span>439-</span>BAIL(<span>22</span>45)</b>
+                <b> 合道<span>気</span><span></span></b>
                 <br>
-                <b>24<span>/</span>7</b>
+                <b><span>/</span>7</b>
                 <br>
             
             </div>

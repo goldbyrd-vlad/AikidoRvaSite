@@ -30,7 +30,7 @@
   <script>
   (function(d) {
     var config = {
-      kitId: 'dku6tkt',
+      kitId: 'lfr0zfm',
       scriptTimeout: 3000,
       async: true
     },
