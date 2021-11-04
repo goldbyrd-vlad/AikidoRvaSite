@@ -7,16 +7,10 @@ echo "hello world! this is a test!<hr>";
 echo $test;
 ?>
 <div class="container-fluid g-0 main">
-    <div class="row justify-content-center g-0">
+    <div class="row justify-content-center g-0 mt-1">
         <div class="col-12 col-lg-12 text-center">
-            <div class="logo" uk-height-viewport="offset-top: true">
-                <div class="mt-4"> - </div>
-                <div class="mt-4">
-                    
-                    <b> 合<span>道</span>気<span></span></b>
-                    <span class="hero-text color-white">RVA</span>
-                </div>
-                                
+            <div class="logo p-4" uk-height-viewport="offset-top: true">
+                <b> 合 <span>道 </span>気<span></span></b>            
             </div>
            
         </div>

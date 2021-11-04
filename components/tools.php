@@ -1,5 +1,5 @@
 <?php
-$domain = "http://johnsonsbonding.com/";
+$domain = "http://localhost:3031/";
 $contactFormRecipient = "info@johnsonsbonding.com";
 $contactFormFrom = "From: Johnson's Bonding <info@johnsonsbonding.com>";
 $webMessageEmailDisclaimer =

@@ -2,7 +2,7 @@
   <div class="container-fluid align-items-center ">
     <div class=""> 
 		<a class="navbar-brand uk-link-reset" href="<?php echo $domain;?>"> 
-			<img src="images/Logo.png" class='m-1' width="120"><span class="accent-color-pink  h1 script d-lg-none"></span></a></div>
+			<img src="images/Logo.png" class='m-1' width="80"><span class="accent-color-pink  h1 script d-lg-none"></span></a></div>
     <button class="navbar-toggler ml-auto float-right color-accent-dark " type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="true" aria-label="Toggle navigation"> 
 	<i class="fas fa-bars"></i> </button>
     <div class="navbar-collapse mx-auto collapse" id="navbarNavAltMarkup">
